@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.rojo{
+    background-color: red;
+    border: 1px solid black;
+}
+.azul{
+    background-color: blue;
+    border: 1px solid black;
+}
+.nar{
+    background-color: orange;
+    border: 1px solid black;
+}
+.ama{
+    background-color: yellow;
+    border: 1px solid black;
+}
+.verde{
+    background-color: green;
+    border: 1px solid black;
+}
+.mor{
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.gris{
+    background-color: gray;
+    border: 1px solid black;
+}
